@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @chrysantias // Call me Chaca
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Computer science.
 
 <!---
 Whois4444/Whois4444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
